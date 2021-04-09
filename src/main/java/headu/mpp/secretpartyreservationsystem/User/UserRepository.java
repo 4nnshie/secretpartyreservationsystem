@@ -1,4 +1,4 @@
-package headu.mpp.secretpartyreservationsystem.user;
+package headu.mpp.secretpartyreservationsystem.User;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

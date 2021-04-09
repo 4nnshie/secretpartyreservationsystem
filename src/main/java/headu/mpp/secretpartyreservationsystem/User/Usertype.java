@@ -1,4 +1,4 @@
-package headu.mpp.secretpartyreservationsystem.user;
+package headu.mpp.secretpartyreservationsystem.User;
 
 import javax.persistence.*;
 

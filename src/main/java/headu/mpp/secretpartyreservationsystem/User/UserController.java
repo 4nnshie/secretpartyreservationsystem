@@ -1,4 +1,4 @@
-package headu.mpp.secretpartyreservationsystem.user;
+package headu.mpp.secretpartyreservationsystem.User;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

@@ -11,5 +11,4 @@ public class TestIndex {
         IndexController actual = new IndexController();
         assertEquals(expected,actual.index());
     }
-
 }
